@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<<<!!--
-**I dont know how to preface my git, or something or the other.
+
+I dont know how to preface my git, or something or the other.
 
 so, heres what i do, or want  to do:
 
@@ -13,4 +13,4 @@ so, heres what i do, or want  to do:
 sooooooo,
 enjoy.
 
--->
+
