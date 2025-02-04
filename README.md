@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**xhidalu/xhidalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<<<!!--
+**I dont know how to preface my git, or something or the other.
 
-Here are some ideas to get you started:
+so, heres what i do, or want  to do:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ - Data Analysis
+ - sexy github comments
+ - python, or medusa as i call it.
+ - whatever else i happen to learn
+
+sooooooo,
+enjoy.
+
 -->
